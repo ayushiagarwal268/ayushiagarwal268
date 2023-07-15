@@ -1,7 +1,7 @@
 <h1 align="center"> 👋 </h1>
 <h2 align="center"> 👩‍💻 Whoami</h2>
 <p align="center">
-  <samp>A highly resourceful computer programmer and well-rounded IT professional with over five years of computing experience, possessing expert knowledge of the software development lifecycle and a solid understanding of technologies required for the development and deployment of highly available and scalable applications, including their networks and infrastructure.
+  <samp>Passionate graduate student pursuing a Master's degree in Computer Science at Arizona State University, with a strong focus on Deep Learning and Artificial Intelligence. Fascinated by the potential of cutting-edge technologies, my research interests lie in the domains of Deep Learning, Natural Language Processing, and Computer Vision. I am driven by the desire to explore the frontiers of AI and contribute to advancements in these fields. Dedicated to expanding knowledge and pushing boundaries, I am excited to collaborate and create innovative solutions that shape the future of technology.
   </samp>
   <br> <br>
 </p>
@@ -10,9 +10,10 @@
 
 <h2 align="center"> 🖥️ Technical Skills</h2>
 <p align="center">
-  <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/react%20-%2300D9FF.svg?&style=for-the-badge&logo=react&logoColor=white" />&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/tailwind-css%20-%231572B6.svg?&style=for-the-badge&logo=tailwind-css&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />&nbsp;&nbsp;&nbsp;
 </p>
 
 <h2  align="center">📫 Reach me on</h2>
