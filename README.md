@@ -9,6 +9,9 @@
 <hr>
 
 <h2 align="center"> 🖥️ Technical Skills</h2>
+
+<h3 align="center"> Programming Languages </h3>
+
 <p align="center">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />&nbsp;&nbsp;&nbsp;
@@ -30,6 +33,4 @@
 </p>
 
 <hr>
-
-<h2  align="center">💻 Check Out My Repos ⬇️ </h2>
 
